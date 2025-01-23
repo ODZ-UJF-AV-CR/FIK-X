@@ -1,4 +1,4 @@
-# FIK-8
+# FIK-10 - Autogyro controlled descend and recovery experiment 
 [Department of Radiation Dosimetry of the Nuclear Physics Institute of the Czech Academy of Sciences](http://www.ujf.cas.cz/en/departments/department-of-radiation-dosimetry/contact/) high-altitude balloon experiment
 
 
